@@ -143,4 +143,4 @@ Documentacion swapper
 =====================
 http://localhost:8080/swagger-ui/index.html
 	
-*Si existen dudas o impedimentos para probar la aplicación, puede contactarme a nelsonmorales3@gmail.com, fono +56945125564.
+

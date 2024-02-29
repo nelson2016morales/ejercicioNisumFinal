@@ -1,13 +1,3 @@
-Repositorio de entrega
-======================
-
-El proyecto se ha alojado en el siguiente directorio git: https://github.com/nelson2016morales/ejercicioNisumFinal.git
-
-En dicho directorio existe una carpeta llamada crudUsuarios, la cual contiene todo el código fuente del proyecto. Se debe seleccionar el botón de color verde para desplegar la opción descargar en modo Zip o también se puede clonar como un proyecto git. Según estime conveniente la persona que realice la descarga. 
-Una vez que se cuente con el proyecto descomprimido se debe dejar en alguna ubicación del equipo. 
-
-
-
 
 Instalación de la Aplicación
 ============================
